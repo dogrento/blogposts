@@ -1,3 +1,3 @@
-module github.com/dogrento/blogposts
+module blogposts
 
 go 1.22.0
